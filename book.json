@@ -7,8 +7,7 @@
     "github",
     "prism",
     "-highlight",
-    "splitter",
-    "sitemap"
+    "splitter"
   ],
   "pluginsConfig": {
     "disqus": {
@@ -16,9 +15,6 @@
     },
     "github": {
       "url": "https://github.com/luoqiliu/holyit"
-    },
-    "sitemap": {
-        "hostname": "http://holyit.tk/"
     }
   }
 }
