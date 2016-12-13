@@ -1,3 +1,24 @@
 {
-
+  "title": "holyit 我的足迹",
+  "description": "好好学习，天天向上",
+  "language": "zh",
+  "plugins": [
+    "disqus",
+    "github",
+    "prism",
+    "-highlight",
+    "splitter",
+    "sitemap"
+  ],
+  "pluginsConfig": {
+    "disqus": {
+      "shortName": "holyit-handbook"
+    },
+    "github": {
+      "url": "https://github.com/luoqiliu/holyit"
+    },
+    "sitemap": {
+        "hostname": "http://holyit.tk/"
+    }
+  }
 }
