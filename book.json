@@ -1,15 +1,25 @@
 {
-  "title": "holyit 我的足迹",
+  "title": "holyit-我的足迹",
   "description": "好好学习，天天向上",
-  "language": "zh-cn",
   "plugins": [
     "github",
     "-highlight",
-    "splitter"
+    "splitter",
+    "jsbin",
+    "copy-code-button",
+    "addcssjs"
   ],
   "pluginsConfig": {
     "github": {
       "url": "https://github.com/luoqiliu/holyit"
+    },
+    "addcssjs": {
+      "css": [
+        "./theme/index.css"
+      ],
+      "js": [
+        "./theme/index.js"
+      ]
     }
   }
 }
