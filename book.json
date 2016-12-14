@@ -3,16 +3,11 @@
   "description": "好好学习，天天向上",
   "language": "zh-cn",
   "plugins": [
-    "disqus",
     "github",
-    "prism",
     "-highlight",
     "splitter"
   ],
   "pluginsConfig": {
-    "disqus": {
-      "shortName": "holyit-handbook"
-    },
     "github": {
       "url": "https://github.com/luoqiliu/holyit"
     }
