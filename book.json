@@ -13,14 +13,15 @@
     "katex",
     "algolia",
  	  "addcssjs",
-    "tbfed-pagefooter"	
+    "tbfed-pagefooter",
+     "toggle-chapters",
+     "prism"	
   ],
   "pluginsConfig": {
     "github": {
       "url": "https://github.com/luoqiliu/holyit"
     },
     "tbfed-pagefooter": {
-        "copyright":"Copyright &copy holyit.tk 2017",
         "modify_label": "该文件修订时间：:",
         "modify_format": "YYYY-MM-DD HH:mm:ss"
     },
