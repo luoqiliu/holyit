@@ -7,7 +7,7 @@
     "sidebar" : {
         "Home" : "http://holyit.tk"
     }
-  }	  
+  },	  
   "plugins": [
      "-lunr",
     "search-jieba",
