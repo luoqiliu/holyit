@@ -15,7 +15,6 @@
     "splitter",
     "jsbin",
     "copy-code-button",
-    "addcssjs",
     "advanced-emoji",
     "ace",
     "katex",
@@ -28,14 +27,6 @@
     }
     "github": {
       "url": "https://github.com/luoqiliu/holyit"
-    },
-    "addcssjs": {
-      "css": [
-        "./theme/index.css"
-      ],
-      "js": [
-        "./theme/index.js"
-      ]
     },
     "tbfed-pagefooter": {
         "copyright":"Copyright &copy holyit.tk 2016",
