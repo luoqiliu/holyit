@@ -9,8 +9,8 @@
     }
   }	  
   "plugins": [
-    "-search",
-    "search-pro",	
+     "-lunr",
+    "search-jieba",
     "github",
     "splitter",
     "jsbin",
@@ -21,10 +21,6 @@
     "tbfed-pagefooter"	
   ],
   "pluginsConfig": {
-    "search-pro": {
-        "cutWordLib": "nodejieba",
-        "defineWord" : ["Gitbook Use"]
-    }
     "github": {
       "url": "https://github.com/luoqiliu/holyit"
     },
