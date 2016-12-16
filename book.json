@@ -1,13 +1,8 @@
 {
-  "title": "holyit-我的足迹",
-  "author" : "luoqi"
-  "description": "好好学习，天天向上",
-  "language" : "zh-hans",
-  "links" : {
-    "sidebar" : {
-        "Home" : "http://holyit.tk"
-    }
-  },	  
+  "title":"holyit-我的足迹",
+  "author":"luoqi"
+  "description":"好好学习，天天向上",
+  "language":"zh-hans",
   "plugins": [
      "-lunr",
     "search-jieba",
