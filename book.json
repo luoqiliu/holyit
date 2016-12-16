@@ -1,15 +1,31 @@
 {
   "title": "holyit-我的足迹",
+  "author" : "luoqi"
   "description": "好好学习，天天向上",
+  "language" : "zh-hans",
+  "links" : {
+    "sidebar" : {
+        "Home" : "http://holyit.tk"
+    }
+  }	  
   "plugins": [
+    "-search",
+    "search-pro",	
     "github",
-    "-highlight",
     "splitter",
     "jsbin",
     "copy-code-button",
-    "addcssjs"
+    "addcssjs",
+    "advanced-emoji",
+    "ace",
+    "katex",
+    "tbfed-pagefooter"	
   ],
   "pluginsConfig": {
+    "search-pro": {
+        "cutWordLib": "nodejieba",
+        "defineWord" : ["Gitbook Use"]
+    }
     "github": {
       "url": "https://github.com/luoqiliu/holyit"
     },
@@ -20,6 +36,11 @@
       "js": [
         "./theme/index.js"
       ]
+    },
+    "tbfed-pagefooter": {
+        "copyright":"Copyright &copy holyit.tk 2016",
+        "modify_label": "该文件修订时间：:",
+        "modify_format": "YYYY-MM-DD HH:mm:ss"
     }
   }
 }
