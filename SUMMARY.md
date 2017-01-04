@@ -1,11 +1,10 @@
 # Summary
 
 * [1.关于holyit](README.md)
-* [2.前端](backend.md)
-* [3.后端](frontend.md)
-* [4.网络](network.md)
-* [5.其他](other.md)
-    * [mvn设置默认编译JDK](./other/ideaMvnJdkVersion.md)
-    * [解决系统多git环境下的用户名冲突问题](./other/gitUserConfig.md)
-    * [mac下idea快捷键](./other/ideaShotKey.md)
+* [2.聊聊天](justTalk.md)
+* [3.发牢骚](angry.md)
+* [4.谈技术](tech.md)
+    * [mvn设置默认编译JDK](./tech/other/ideaMvnJdkVersion.md)
+    * [解决系统多git环境下的用户名冲突问题](./tech/other/gitUserConfig.md)
+    * [mac下idea快捷键](./tech/other/ideaShotKey.md)
 
